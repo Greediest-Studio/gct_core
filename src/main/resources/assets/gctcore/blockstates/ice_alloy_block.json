@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": {"model": "gctcore:ice_alloy_block"}
+  }
+}
